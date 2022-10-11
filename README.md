@@ -6,7 +6,7 @@
 ### <li>[NGINX](https://www.nginx.com/)</li>
 </br>
 
-##  <li>Antes de baixar os arquivos é preciso fazer alguns passoas antes de rodar(esses passos são apenas para sistemas Linux</li>
+##  <li>Antes de baixar os arquivos é preciso fazer alguns passoas antes de rodar(esses passos são apenas para sistemas Linux)</li>
 
 </br>
 
